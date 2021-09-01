@@ -1,2 +1,2 @@
 # NextDateCalculatorQA
-Project made to take a date input and calculate the next date. The project had a srs that covered quality assurance test cases using boundary value analysis and equivalence partitioning.
+Team developed the proposal, software requirement specification, and software design document for a master schedule generator for an educational institution. The software would be able to take data about the campus, teachers, expected enrollment, and expected classes students will take to generate all course sections that will be offered in the next semester along with assigning teachers, classrooms, meeting times.
